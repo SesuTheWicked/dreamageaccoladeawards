@@ -6,6 +6,7 @@ import AboutBg from "../../img/aboutBg.png";
 const AboutInfo = () => (
   <div css={styles} className="aboutInfo">
     <div className="aboutDesc">
+<<<<<<< HEAD
       <span>ABOUT DREAMAGE AWARDS</span>
       <p>
       The Dreamage Accolades Awards Concert (DAAC) is an annual,
@@ -15,6 +16,18 @@ const AboutInfo = () => (
         to creativity and leadership. More than just an award ceremony, DAAC serves as a powerful platform to inspire, mentor, and uplift the next generation, while actively supporting orphans and underprivileged children. Awardees are selected through a nomination process that includes submissions from the public as well as from DAAC organizers and founders.
 
       </p>
+=======
+      <span>ABOUT CONFERENCE</span>
+      <h2>WELCOME TO THE PROJECT MANAGEMENT</h2>
+      <p>
+        The Project Management is a platform to learn expert techniques for
+        building successful project teams, creating efficient plans and
+        implementing effective tracking measures to ensure your projects come in
+        on deadline and on budget. In one fast-paced, well-designed day, we’ll
+        cover all the essential elements of project management.
+      </p>
+      <Button btnTitle="Interested" />
+>>>>>>> f6e17d3 (ready)
     </div>
     <img src={AboutBg} alt="about" />
   </div>

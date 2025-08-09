@@ -8,6 +8,10 @@ const About = () => (
   <section css={styles} className="about">
     <Container>
       <AboutInfo />
+<<<<<<< HEAD
+=======
+      <AboutDate />
+>>>>>>> f6e17d3 (ready)
     </Container>
   </section>
 );

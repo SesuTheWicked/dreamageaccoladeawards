@@ -6,6 +6,7 @@ import Container from "../GlobalComponents/Container";
 import Button from "../GlobalComponents/Button";
 import SpeakingBg from "../../img/speakingBg.jpg";
 import SpeakingCard from "./SpeakingCard";
+<<<<<<< HEAD
 import achado from "../Award nominees/achado.jpg"
 import abbaMoro from "../Award nominees/abba-moro.jpg"
 import adedolopo from "../Award nominees/adedolapo-vaatia.jpg"
@@ -66,6 +67,14 @@ import reginadofaan from "../Award nominees/regina-doofan-gege.jpg"
 import reginaAkume from "../Award nominees/regina-akume.jpg"
 import jordan from "../Award nominees/josephine-jordan.jpg"
 import kyenge from "../Award nominees/nguvaan-kyenge.jpg"
+=======
+import SpeakerOneBg from "../../img/speakerOne.jpg";
+import SpeakerTwoBg from "../../img/speakerTwo.jpg";
+import SpeakerThreeBg from "../../img/speakerThree.jpg";
+import SpeakerFourBg from "../../img/speakerFour.jpg";
+import SpeakerFiveBg from "../../img/speakerFive.jpg";
+import SpeakerSixBg from "../../img/speakerSix.jpg";
+>>>>>>> f6e17d3 (ready)
 
 const Speaking = () => (
   <section css={styles} className="speaking" id="speakers">
@@ -73,11 +82,16 @@ const Speaking = () => (
       overlay="linear-gradient(120deg, #505add 0%, #df42b1 100%)"
       opacity=".9"
     />
+<<<<<<< HEAD
     <Title subtitle="" title="OUR AWARD NOMINEES" />
+=======
+    <Title subtitle="OUR SPEAKINGS" title="WHO’S SPEAKING" />
+>>>>>>> f6e17d3 (ready)
     <Container>
       <SpeakingCard
         speakerName="Albert Barnes"
         speakerDesc="Founder"
+<<<<<<< HEAD
         speakerImg={achado}
       />
       <SpeakingCard
@@ -278,6 +292,38 @@ const Speaking = () => (
     </Container>
     <div className="buttonWrap">
       <Button btnTitle="View all Awardees" />
+=======
+        speakerImg={SpeakerOneBg}
+      />
+      <SpeakingCard
+        speakerName="Patricia Stanley"
+        speakerDesc="Product Lead"
+        speakerImg={SpeakerTwoBg}
+      />
+      <SpeakingCard
+        speakerName="Evelyn Stone"
+        speakerDesc="Photographer"
+        speakerImg={SpeakerThreeBg}
+      />
+      <SpeakingCard
+        speakerName="Evelyn Stone"
+        speakerDesc="Photographer"
+        speakerImg={SpeakerFourBg}
+      />
+      <SpeakingCard
+        speakerName="Susan Hopkins"
+        speakerDesc="UX Manager"
+        speakerImg={SpeakerFiveBg}
+      />
+      <SpeakingCard
+        speakerName="Michael Fowler"
+        speakerDesc="Product Design"
+        speakerImg={SpeakerSixBg}
+      />
+    </Container>
+    <div className="buttonWrap">
+      <Button btnTitle="View all speaker" />
+>>>>>>> f6e17d3 (ready)
     </div>
   </section>
 );

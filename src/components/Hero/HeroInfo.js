@@ -5,9 +5,15 @@ import Button from "../GlobalComponents/Button";
 const HeroInfo = () => (
   <div css={styles} className="info">
     <h2>
+<<<<<<< HEAD
       <span>DREAMAGE</span> <br /> MAGAZINE
     </h2>
     <p>PRESENTS-DREAMAGE ACCOLADES AWARDS</p>
+=======
+      <span>SCIENCE</span> <br /> CONFERENCE
+    </h2>
+    <p>SHANGRI-LA HOTEL, BANGKOK, BANGKOK, THAILAND</p>
+>>>>>>> f6e17d3 (ready)
     <Button btnTitle="More information" />
   </div>
 );
