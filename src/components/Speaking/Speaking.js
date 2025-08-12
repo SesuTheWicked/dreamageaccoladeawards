@@ -7,6 +7,9 @@ import Button from "../GlobalComponents/Button";
 import SpeakingBg from "../../img/speakingBg.jpg";
 import SpeakingCard from "./SpeakingCard";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e5a744c (hello)
 import achado from "../Award nominees/achado.jpg"
 import abbaMoro from "../Award nominees/abba-moro.jpg"
 import adedolopo from "../Award nominees/adedolapo-vaatia.jpg"
@@ -67,6 +70,7 @@ import reginadofaan from "../Award nominees/regina-doofan-gege.jpg"
 import reginaAkume from "../Award nominees/regina-akume.jpg"
 import jordan from "../Award nominees/josephine-jordan.jpg"
 import kyenge from "../Award nominees/nguvaan-kyenge.jpg"
+<<<<<<< HEAD
 =======
 import SpeakerOneBg from "../../img/speakerOne.jpg";
 import SpeakerTwoBg from "../../img/speakerTwo.jpg";
@@ -75,6 +79,8 @@ import SpeakerFourBg from "../../img/speakerFour.jpg";
 import SpeakerFiveBg from "../../img/speakerFive.jpg";
 import SpeakerSixBg from "../../img/speakerSix.jpg";
 >>>>>>> f6e17d3 (ready)
+=======
+>>>>>>> e5a744c (hello)
 
 const Speaking = () => (
   <section css={styles} className="speaking" id="speakers">
@@ -83,14 +89,19 @@ const Speaking = () => (
       opacity=".9"
     />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Title subtitle="" title="OUR AWARD NOMINEES" />
 =======
     <Title subtitle="OUR SPEAKINGS" title="WHO’S SPEAKING" />
 >>>>>>> f6e17d3 (ready)
+=======
+    <Title subtitle="" title="OUR AWARD NOMINEES" />
+>>>>>>> e5a744c (hello)
     <Container>
       <SpeakingCard
         speakerName="Albert Barnes"
         speakerDesc="Founder"
+<<<<<<< HEAD
 <<<<<<< HEAD
         speakerImg={achado}
       />
@@ -294,36 +305,214 @@ const Speaking = () => (
       <Button btnTitle="View all Awardees" />
 =======
         speakerImg={SpeakerOneBg}
+=======
+        speakerImg={achado}
+>>>>>>> e5a744c (hello)
       />
       <SpeakingCard
-        speakerName="Patricia Stanley"
-        speakerDesc="Product Lead"
-        speakerImg={SpeakerTwoBg}
+        speakerImg={abbaMoro}
       />
       <SpeakingCard
-        speakerName="Evelyn Stone"
-        speakerDesc="Photographer"
-        speakerImg={SpeakerThreeBg}
+        speakerImg={apehHarrison}
       />
       <SpeakingCard
-        speakerName="Evelyn Stone"
-        speakerDesc="Photographer"
-        speakerImg={SpeakerFourBg}
+        speakerImg={ato}
       />
       <SpeakingCard
-        speakerName="Susan Hopkins"
-        speakerDesc="UX Manager"
-        speakerImg={SpeakerFiveBg}
+        speakerImg={asiwaju}
       />
       <SpeakingCard
-        speakerName="Michael Fowler"
-        speakerDesc="Product Design"
-        speakerImg={SpeakerSixBg}
+        speakerImg={audu}
       />
+       <SpeakingCard
+        speakerImg={adedolopo}
+      />
+       <SpeakingCard
+        speakerImg={arome}
+      />
+       <SpeakingCard
+        speakerImg={barbara}
+      />
+        <SpeakingCard
+        speakerImg={blessing}
+      />
+        <SpeakingCard
+        speakerImg={becky}
+      />
+        <SpeakingCard
+        speakerImg={bongos}
+      />
+        <SpeakingCard
+        speakerImg={daniel}
+      />
+        <SpeakingCard
+        speakerImg={david}
+      />
+        <SpeakingCard
+        speakerImg={nguper}
+      />
+        <SpeakingCard
+        speakerImg={enohor}
+      />
+        <SpeakingCard
+        speakerImg={eunice}
+      />
+        <SpeakingCard
+        speakerImg={thomas}
+      />
+
+<SpeakingCard
+        speakerImg={terry}
+      />
+        <SpeakingCard
+        speakerImg={adejoh}
+      />
+        <SpeakingCard
+        speakerImg={enenche}
+      />
+        <SpeakingCard
+        speakerImg={oganya}
+      />
+        <SpeakingCard
+        speakerImg={nguvaan}
+      />
+        <SpeakingCard
+        speakerImg={udeh}
+      />
+        <SpeakingCard
+        speakerImg={omudu}
+      />
+        <SpeakingCard
+        speakerImg={terry}
+      />
+        <SpeakingCard
+        speakerImg={ayo}
+      />
+        <SpeakingCard
+        speakerImg={terungwa}
+      />
+        <SpeakingCard
+        speakerImg={orubibi}
+      />
+        <SpeakingCard
+        speakerImg={ahula}
+      />
+        <SpeakingCard
+        speakerImg={reginaAkume}
+      />
+        <SpeakingCard
+        speakerImg={reginadofaan}
+      />
+        <SpeakingCard
+        speakerImg={regina}
+      />
+        <SpeakingCard
+        speakerImg={akinkumi}
+      />
+        <SpeakingCard
+        speakerImg={akume}
+      />
+        <SpeakingCard
+        speakerImg={josephine}
+      />
+        <SpeakingCard
+        speakerImg={jordan}
+      />
+        <SpeakingCard
+        speakerImg={sony}
+      />
+        <SpeakingCard
+        speakerImg={samson}
+      />
+      <SpeakingCard
+        speakerImg={haakyav}
+      />
+      <SpeakingCard
+        speakerImg={inalegwu}
+      />
+      <SpeakingCard
+        speakerImg={king}
+      />
+      <SpeakingCard
+        speakerImg={ewaoche}
+      />
+      <SpeakingCard
+        speakerImg={leonard}
+      />
+      <SpeakingCard
+        speakerImg={asemakaha}
+      />
+
+<SpeakingCard
+        speakerImg={vera}
+      />
+      <SpeakingCard
+        speakerImg={ukan}
+      />
+      <SpeakingCard
+        speakerImg={tony}
+      />
+
+<SpeakingCard
+        speakerImg={tony}
+      />
+       <SpeakingCard
+        speakerImg={idibia}
+      />
+       <SpeakingCard
+        speakerImg={aondokaa}
+      />
+       <SpeakingCard
+        speakerImg={sam}
+      />
+       <SpeakingCard
+        speakerImg={riches}
+      />
+       <SpeakingCard
+        speakerImg={kyenge}
+      />
+       <SpeakingCard
+        speakerImg={doofan}
+      />
+
+<SpeakingCard
+        speakerImg={zaaki}
+      />
+      
+      <SpeakingCard
+        speakerImg={vivian}
+      />
+      
+      <SpeakingCard
+        speakerImg={victor}
+      />
+      
+      <SpeakingCard
+        speakerImg={terseer}
+      />
+      
+      <SpeakingCard
+        speakerImg={kidd}
+      />
+
+<SpeakingCard
+        speakerImg={veronica}
+      />
+      
+      <SpeakingCard
+        speakerImg={doose}
+      />
+      
+      
+      
     </Container>
     <div className="buttonWrap">
+<<<<<<< HEAD
       <Button btnTitle="View all speaker" />
 >>>>>>> f6e17d3 (ready)
+=======
+      <Button btnTitle="View all Awardees" />
+>>>>>>> e5a744c (hello)
     </div>
   </section>
 );

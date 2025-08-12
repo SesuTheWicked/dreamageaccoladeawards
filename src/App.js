@@ -9,17 +9,24 @@ import Blog from "./components/Blog/Blog";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e5a744c (hello)
 import Mission from "./components/Mission/Mission"
 import Vision from "./components/Vision/Vision";
 import "./App.css";
 import Video from "./components/Video/Video";
+<<<<<<< HEAD
 =======
 import "./App.css";
 >>>>>>> f6e17d3 (ready)
+=======
+>>>>>>> e5a744c (hello)
 
 const App = () => (
   <React.Fragment>
     <Hero />
+<<<<<<< HEAD
 <<<<<<< HEAD
     <Video/>
     <About />
@@ -27,10 +34,18 @@ const App = () => (
     <Vision/>
     <Speaking />
 =======
+=======
+    <Video/>
+>>>>>>> e5a744c (hello)
     <About />
+    <Mission/>
+    <Vision/>
     <Speaking />
+<<<<<<< HEAD
     <Schedule />
 >>>>>>> f6e17d3 (ready)
+=======
+>>>>>>> e5a744c (hello)
     <Pricing />
     <Sponsors />
     <Blog />

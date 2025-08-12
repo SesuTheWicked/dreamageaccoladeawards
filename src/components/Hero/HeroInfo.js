@@ -6,6 +6,7 @@ const HeroInfo = () => (
   <div css={styles} className="info">
     <h2>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <span>DREAMAGE</span> <br /> MAGAZINE
     </h2>
     <p>PRESENTS-DREAMAGE ACCOLADES AWARDS</p>
@@ -14,6 +15,11 @@ const HeroInfo = () => (
     </h2>
     <p>SHANGRI-LA HOTEL, BANGKOK, BANGKOK, THAILAND</p>
 >>>>>>> f6e17d3 (ready)
+=======
+      <span>DREAMAGE</span> <br /> MAGAZINE
+    </h2>
+    <p>PRESENTS-DREAMAGE ACCOLADES AWARDS</p>
+>>>>>>> e5a744c (hello)
     <Button btnTitle="More information" />
   </div>
 );

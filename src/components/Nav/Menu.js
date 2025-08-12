@@ -10,42 +10,60 @@ const Menu = ({ setIsOpened }) => {
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       name: "About Us",
 =======
       name: "pages",
 >>>>>>> f6e17d3 (ready)
+=======
+      name: "About Us",
+>>>>>>> e5a744c (hello)
       href: "#pages",
       id: "2",
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       name: "Mission",
 =======
       name: "speakers",
 >>>>>>> f6e17d3 (ready)
+=======
+      name: "Mission",
+>>>>>>> e5a744c (hello)
       href: "#speakers",
       id: "3",
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       name: "Vision",
 =======
       name: "blog",
 >>>>>>> f6e17d3 (ready)
+=======
+      name: "Vision",
+>>>>>>> e5a744c (hello)
       href: "#blog",
       id: "4",
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e5a744c (hello)
       name: "DAAC Awards",
       href: "#contact",
       id: "",
     },
     {
       name: "Projects",
+<<<<<<< HEAD
 =======
       name: "contact",
 >>>>>>> f6e17d3 (ready)
+=======
+>>>>>>> e5a744c (hello)
       href: "#contact",
       id: "",
     },

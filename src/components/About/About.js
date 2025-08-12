@@ -9,9 +9,12 @@ const About = () => (
     <Container>
       <AboutInfo />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <AboutDate />
 >>>>>>> f6e17d3 (ready)
+=======
+>>>>>>> e5a744c (hello)
     </Container>
   </section>
 );
