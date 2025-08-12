@@ -299,6 +299,9 @@ const Speaking = () => (
         speakerImg={doose}
       />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 85f93b2 (wait)
        
       
     </Container>
