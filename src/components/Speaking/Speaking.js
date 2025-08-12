@@ -298,6 +298,7 @@ const Speaking = () => (
       <SpeakingCard
         speakerImg={doose}
       />
+<<<<<<< HEAD
        
       
     </Container>
@@ -503,6 +504,11 @@ const Speaking = () => (
         speakerImg={doose}
       />
       
+=======
+        <SpeakingCard
+        speakerImg={doose}
+      />
+>>>>>>> f2b058f (well)
       
       
     </Container>
