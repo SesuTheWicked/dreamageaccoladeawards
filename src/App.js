@@ -17,11 +17,15 @@ import Vision from "./components/Vision/Vision";
 import "./App.css";
 import Video from "./components/Video/Video";
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 import "./App.css";
 >>>>>>> f6e17d3 (ready)
 =======
 >>>>>>> e5a744c (hello)
+=======
+import GalleryPage from "./components/Photo Gallery/Gallery";
+>>>>>>> 4fba9f3 (again)
 
 const App = () => (
   <React.Fragment>
@@ -52,6 +56,7 @@ const App = () => (
 >>>>>>> 22b7959 (wow)
     <Sponsors />
     <Blog />
+    <GalleryPage/>
     <Contact />
     <Footer />
   </React.Fragment>
