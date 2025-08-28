@@ -7,7 +7,11 @@ const HeroInfo = () => (
     <h2>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <span>DREAMAGE</span> <br /> MAGAZINE
+=======
+      <span>DREAMAGE</span> <br /> AWARDS
+>>>>>>> 7cf6568 (hello)
     </h2>
     <p>PRESENTS-DREAMAGE ACCOLADES AWARDS</p>
 =======
