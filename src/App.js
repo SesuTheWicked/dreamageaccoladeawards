@@ -33,6 +33,7 @@ const App = () => (
     <Mission/>
     <Vision/>
     <Speaking />
+<<<<<<< HEAD
 =======
 =======
     <Video/>
@@ -47,6 +48,8 @@ const App = () => (
 =======
 >>>>>>> e5a744c (hello)
     <Pricing />
+=======
+>>>>>>> 22b7959 (wow)
     <Sponsors />
     <Blog />
     <Contact />
