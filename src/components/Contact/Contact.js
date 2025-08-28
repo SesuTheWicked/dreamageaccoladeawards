@@ -11,12 +11,16 @@ const Contact = () => (
     <Container>
       <div className="contactInfo">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5e5d1fe (sweet)
     
         <ContactRow contactSubtitle="Phone:" contactTitle="09138500476," />
         <ContactRow contactSubtitle="Email:" contactTitle="dreamagemagazine@gmail.com" />
         <ContactRow contactSubtitle="Facebook:" contactTitle="DreamAge Accolades Awards" />
         <ContactRow contactSubtitle="Twitter:" contactTitle="@DAACawards" />
         <ContactRow contactSubtitle="Instagram:" contactTitle="DAAC AWARDS" />
+<<<<<<< HEAD
 =======
         <ContactRow
           contactSubtitle="Address:"
@@ -26,6 +30,8 @@ const Contact = () => (
         <ContactRow contactSubtitle="Email:" contactTitle="confer@gmail.com" />
         <ContactRow contactSubtitle="Website:" contactTitle="www.confer.com" />
 >>>>>>> f6e17d3 (ready)
+=======
+>>>>>>> 5e5d1fe (sweet)
       </div>
       <ContactForm />
     </Container>

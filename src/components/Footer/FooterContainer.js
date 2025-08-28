@@ -22,6 +22,7 @@ const FooterContainer = () => {
   return (
     <div css={styles} className="footerContainer">
 <<<<<<< HEAD
+<<<<<<< HEAD
     
       <div className="footerCard second">
         <div className="footerCard first">
@@ -79,6 +80,28 @@ const FooterContainer = () => {
           <i className="fas fa-globe-europe fa-sm"></i> www.confer.com
         </p>
 >>>>>>> f6e17d3 (ready)
+=======
+    
+      <div className="footerCard second">
+        <div className="footerCard first">
+  
+  <div className="socialWrap">
+    <div className="socialIcon">
+      <i className="fab fa-facebook-f fa-sm"></i>
+    </div>
+    <div className="socialIcon">
+      <i className="fab fa-instagram fa-sm"></i>
+    </div>
+    <div className="socialIcon">
+      <i className="fab fa-twitter fa-sm"></i>
+    </div>
+    <div className="socialIcon">
+      <i className="fab fa-linkedin-in fa-sm"></i>
+    </div>
+  </div>
+</div>
+
+>>>>>>> 5e5d1fe (sweet)
       </div>
       <div className="footerCard third">
         <h2>Workshops</h2>
