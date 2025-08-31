@@ -9,84 +9,29 @@ const Menu = ({ setIsOpened }) => {
       id: "1",
     },
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
       name: "About Us",
-<<<<<<< HEAD
-=======
-      name: "pages",
->>>>>>> f6e17d3 (ready)
-=======
-      name: "About Us",
->>>>>>> e5a744c (hello)
-      href: "#pages",
-      id: "2",
-    },
-    {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      name: "Mission",
-=======
-      name: "speakers",
->>>>>>> f6e17d3 (ready)
-=======
-      name: "Mission",
->>>>>>> e5a744c (hello)
-=======
       href: "#about",
       id: "2",
     },
     {
       name: "Awardees",
->>>>>>> 0cff811 (push)
       href: "#speakers",
       id: "3",
     },
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
       name: "Vision",
-<<<<<<< HEAD
-=======
-      name: "blog",
->>>>>>> f6e17d3 (ready)
-=======
-      name: "Vision",
->>>>>>> e5a744c (hello)
-      href: "#blog",
-      id: "4",
-    },
-    {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e5a744c (hello)
-      name: "DAAC Awards",
-=======
       href: "#mission",
       id: "4",
     },
     {
       name: "Contact",
->>>>>>> 0cff811 (push)
       href: "#contact",
       id: "5",
     },
     {
       name: "Projects",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      name: "contact",
->>>>>>> f6e17d3 (ready)
-=======
->>>>>>> e5a744c (hello)
-      href: "#contact",
-      id: "",
-=======
       href: "#blog",
       id: "6",
->>>>>>> 0cff811 (push)
     },
   ];
 

@@ -5,16 +5,10 @@ import AboutInfo from "./AboutInfo";
 import AboutDate from "./AboutDate";
 
 const About = () => (
-  <section css={styles} className="about" id="about">
+  <section css={styles} className="about">
     <Container>
       <AboutInfo />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
       <AboutDate />
->>>>>>> f6e17d3 (ready)
-=======
->>>>>>> e5a744c (hello)
     </Container>
   </section>
 );
